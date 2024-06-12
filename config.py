@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Ownergit")
+OWNER_USERNAME = getenv("OWNER_USERNAME","SUBHHHHHHH07")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "NexikoBot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "ArcaneXMusic_Bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "Nexiko")
 # ---------------------------------------------------------
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/DAXXTEAM/DAXXMUSIC",
+    "https://github.com/Subham86589/ArcaneXMusic_Bot-",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ALLTYPECC")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/gitwizardbypass")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BILLA_GANG_NETWORK")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BILLA_GANG_NTWK")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,21 +141,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/cfbdee8103102bcb2e5da.jpg"
+    "START_IMG_URL", "https://graph.org/file/108615ea020075bb9ce7a.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/00360393a15daf7fc4e9d.jpg"
+    "PING_IMG_URL", "https://graph.org/file/f83219f8721932daa3bad.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/48f39202823b358203234.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/e575ae40d6635250974e1.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/03efec694e41e891b29dc.jpg"
-SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-YOUTUBE_IMG_URL = "https://telegra.ph/file/4dc854f961cd3ce46899b.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d723f4c80da157fca1678.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/6c741a6bc1e1663ac96fc.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/a83b19b22889481cd54f6.jpg"
+STATS_IMG_URL = "https://graph.org/file/a6e1d03dc4185f5697341.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/10dadcc5faddfdd5e2103.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/48cee992aef963c1db6d2.jpg"
+STREAM_IMG_URL = "https://graph.org/file/7aa887d7bdc0bcad00692.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/e899c73c19997ccc7ef5c.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/48821272689447f78575f.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/878eecc23765a42bf0ddb.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/36df3e0b4a1d38eb55f48.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/bc74db443c95f4359cf00.jpg"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
